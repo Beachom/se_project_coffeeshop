@@ -13,4 +13,4 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :)
+Soem things that I woudl like to improve on this project in the future is adding some more interfaces for visitors of the site, such as more custom things such as custom buttoms. Another thing I would want to learn to add is Ellipsis overflowing text.
