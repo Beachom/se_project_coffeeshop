@@ -7,7 +7,7 @@
   background-size: cover;
 }
 
-.recipe__title {
+.recipes__title {
   max-width: 580px;
   margin-bottom: 24px;
   font-size: 44px;
@@ -17,7 +17,7 @@
   font-family: "Inter";
 }
 
-.recipe__subtitle {
+.recipes__subtitle {
   max-width: 438px;
   margin-bottom: 0;
   margin-top: 0;
