@@ -59,6 +59,7 @@
   justify-content: space-between;
   margin-top: auto;
   align-items: end;
+  z-index: 1;
 }
 
 .header__paragraphs {
