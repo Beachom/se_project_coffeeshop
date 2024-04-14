@@ -49,6 +49,7 @@
   font-family: "Inter", Arial, sans-serif;
   font-style: normal;
   font-weight: normal;
+  transition: color 0.5s ease-in;
 }
 
 .footer__social-link:hover {
